@@ -1,4 +1,6 @@
-This repository contains a collection of scripts that help convert some of the data from the [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/), commonly abbreviated as _ml100k_, into JSON files that are easier to handle.
+# MovieLens 100k to JSON
+
+This repository contains a collection of scripts that help convert some of the data from the [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/100k/) into JSON files that are easier to handle.
 
 ## How to use
 
@@ -16,4 +18,4 @@ Each script has a `--help` (alt. `-h`) command that should help with using it. I
 
 ## License
 
-These scripts are released under the terms of the GNU GPL v2 license.
+These scripts are released under the terms of the MIT license.
